@@ -56,7 +56,7 @@ Ejemplo:
 
 ## 🚀 Acceso al Proyecto  
 Puedes acceder al proyecto mediante:  
-- **Repositorio en GitHub**: [Enlace al repositorio](https://github.com/BryanSV93/conversor-monedas)  
+- **Repositorio en GitHub**: [Enlace al repositorio](https://github.com/Jonathan-FCH/conversordemonedas)  
 
 ---
 
@@ -65,8 +65,8 @@ Puedes acceder al proyecto mediante:
 ---
 
 ## 👨‍💻 Personas Desarrolladoras del Proyecto  
-- **Bryan Miguel Sanabria Vargas**  
-  - [LinkedIn](https://linkedin.com/in/bryansanabriavargas)  
-  - [GitHub](https://github.com/BryanSV93)  
+- **Jonathan Fonseca Chacon**  
+  - [LinkedIn](linkedin.com/in/jonathan-fonseca-chacon)  
+  - [GitHub](https://github.com/Jonathan-FCH)  
 
 ---
